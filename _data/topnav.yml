@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: GitHub
-      external_url: https://github.com/tomjoht/documentation-theme-jekyll
+      external_url: https://github.com/lg-gonzalez-juarez/PlanningTestB2
     - title: News
       url: /news
 
@@ -31,4 +31,4 @@ topnav_dropdowns:
         - title: Product 2
           url: /p2_landing_page.html
 
-# Copyright 2021 Google LLC
+
