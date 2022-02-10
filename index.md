@@ -1,10 +1,10 @@
 ---
-title: "Getting started with the Documentation Theme for Jekyll"
+title: "title 01"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll.
+summary: summary text.
 ---
 
 {% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
@@ -15,11 +15,11 @@ Follow these instructions to build the theme.
 
 ### 1. Download the theme
 
-First, download or clone the theme from the [Github repo](https://github.com/tomjoht/documentation-theme-jekyll). Most likely you won't be pulling in updates once you start customizing the theme, so downloading the theme (instead of cloning it) probably makes the most sense. In Github, click the **Clone or download** button, and then click **Download ZIP**.
+First, download or clone the theme from the [Github repo](https://github.com/tomjoht/documentation-theme-jekyll). In Github, click the **Clone or download** button, and then click **Download ZIP**.
 
 ### 2. Install Jekyll
 
-If you've never installed or run a Jekyll site locally on your computer, follow these instructions to install Jekyll:
+If you've never installed or run a Jekyll site locally on your computer, follow these 
 
 * [Install Jekyll on Mac][mydoc_install_jekyll_on_mac]
 * [Install Jekyll on Windows][mydoc_install_jekyll_on_windows]
@@ -32,7 +32,7 @@ In case you haven't installed Bundler, install it:
 gem install bundler
 ```
 
-You'll want [Bundler](http://bundler.io/) to make sure all the Ruby gems needed work well with your project. Bundler sorts out dependencies and installs missing gems or matches up gems with the right versions based on gem dependencies.
+You'll want [Bundler](http://bundler.io/) to make sure all the Ruby gems needed work well with 
 
 ### 4. Option 1: Build the Theme (*without* the github-pages gem) {#option1}
 
@@ -172,63 +172,6 @@ Because most topnav options will be the same, the `_config.yml` file specifies t
 
 The sidebar data file uses a specific YAML syntax that you must follow. Follow the sample pattern shown in the theme, specically looking at `mydoc_sidebar.yml` as an example: Here's a code sample showing all levels:
 
-```yaml
-entries:
-- title: sidebar
-  product: Jekyll Doc Theme
-  version: 6.0
-  folders:
-  - title: Overview
-    output: web, pdf
-    folderitems:
-
-    - title: Get started
-      url: /index.html
-      output: web, pdf
-      type: homepage
-
-    - title: Introduction
-      url: /mydoc_introduction.html
-      output: web, pdf
-
-  - title: Release Notes
-    output: web, pdf
-    folderitems:
-
-    - title: 6.0 Release notes
-      url: /mydoc_release_notes_60.html
-      output: web, pdf
-
-    - title: 5.0 Release notes
-      url: /mydoc_release_notes_50.html
-      output: web, pdf
-
-  - title: Tag archives
-    output: web
-    folderitems:
-
-    - title: Tag archives overview
-      url: /mydoc_tag_archives_overview.html
-      output: web
-
-      subfolders:
-      - title: Tag archive pages
-        output: web
-        subfolderitems:
-
-        - title: Formatting pages
-          url: /tag_formatting.html
-          output: web
-
-        - title: Navigation pages
-          url: /tag_navigation.html
-          output: web
-
-        - title: Content types pages
-          url: /tag_content_types.html
-          output: web
-```
-
 Each `folder` or `subfolder` must contain a `title` and `output` property. Each `folderitem` or `subfolderitem` must contain a `title`, `url`, and `output` property.
 
 The two outputs available are `web` and `pdf`. (Even if you aren't publishing PDF, you still need to specify `output: web`).
@@ -239,65 +182,7 @@ The YAML syntax depends on exact spacing, so make sure you follow the pattern sh
 
 Each level must have at least one topic before the next level starts. You can't have a second level that contains multiple third levels without having at least one standalone topic in the second level. If you need a hierarchy that has a folder that contains other folders and no loose topics, use a blank `-` item like this:
 
-```yaml
-entries:
-- title: sidebar
-  product: Jekyll Doc Theme
-  version: 6.0
-  folders:
-  - title: Overview
-    output: web, pdf
-    folderitems:
 
-    -
-
-  - title: Release Notes
-    output: web, pdf
-    folderitems:
-
-    - title: 6.0 Release notes
-      url: /mydoc_release_notes_60.html
-      output: web, pdf
-
-    - title: 5.0 Release notes
-      url: /mydoc_release_notes_50.html
-      output: web, pdf
-
-  - title: Installation
-    output: web, pdf
-    folderitems:
-
-    - title: About Ruby, Gems, Bundler, etc.
-      url: /mydoc_about_ruby_gems_etc.html
-      output: web, pdf
-
-    - title: Install Jekyll on Mac
-      url: /mydoc_install_jekyll_on_mac.html
-      output: web, pdf
-
-    - title: Install Jekyll on Windows
-      url: /mydoc_install_jekyll_on_windows.html
-      output: web, pdf
-```
-
-To accommodate the title page and table of contents in PDF outputs, each product sidebar must list these pages before any other:
-
-```yaml
-- title:
-  output: pdf
-  type: frontmatter
-  folderitems:
-  - title:
-    url: /titlepage
-    output: pdf
-    type: frontmatter
-  - title:
-    url: /tocpage
-    output: pdf
-    type: frontmatter
-```
-
-Leave the output as `output: pdf` for these frontmatter pages so that they don't appear in the web output.
 
 For more detail on the sidebar, see [Sidebar navigation][mydoc_sidebar_navigation] and [YAML tutorial][mydoc_yaml_tutorial].
 
