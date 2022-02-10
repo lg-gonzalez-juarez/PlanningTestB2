@@ -26,10 +26,7 @@ entries:
     - title: 00-1 Tense Grammar
       url: /tense_a1.html
       output: web, pdf
-      type: homepage
-
-
-
+      
   - title: 01 Overview
     output: web, pdf
     folderitems:
