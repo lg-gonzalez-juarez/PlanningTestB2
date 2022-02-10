@@ -19,28 +19,39 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
+- title: 00 English Grammar
     output: web, pdf
     folderitems:
 
-    - title: 01 Get started
+    - title: 00-1 Tense Grammar
+      url: /tense_a1.html
+      output: web, pdf
+      type: homepage
+
+
+
+  - title: 01 Overview
+    output: web, pdf
+    folderitems:
+
+    - title: 01-1 Get started
       url: /index.html
       output: web, pdf
       type: homepage
 
-    - title: 01-1 Introduction
+    - title: 01-2 Introduction
       url: /mydoc_introduction.html
       output: web, pdf
 
-    - title: 01-2 Supported features
+    - title: 01-3 Supported features
       url: /mydoc_supported_features.html
       output: web, pdf
 
-    - title: 01-3 About the theme author
+    - title: 01-4 About the theme author
       url: /mydoc_about.html
       output: web, pdf
 
-    - title: 01-4 Support
+    - title: 01-5 Support
       url: /mydoc_support.html
       output: web, pdf
 
