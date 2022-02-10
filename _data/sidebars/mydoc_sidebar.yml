@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: Jekyll Doc Theme
+  product: sidebar Doc Theme
   version: 6.0
   folders:
 
@@ -44,23 +44,23 @@ entries:
       url: /mydoc_support.html
       output: web, pdf
 
-  - title: Release Notes
+  - title: 02 Release Notes
     output: web, pdf
     folderitems:
 
-    - title: 6.0 Release notes
+    - title: 02-1 Release notes
       url: /mydoc_release_notes_60.html
       output: web, pdf
 
-    - title: 5.0 Release notes
+    - title: 02-1 Release notes
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
-  - title: Installation
+  - title: 03 Installation
     output: web, pdf
     folderitems:
 
-    - title: About Ruby, Gems, Bundler, etc.
+    - title: 03-1 About Ruby, Gems, Bundler, etc.
       url: /mydoc_about_ruby_gems_etc.html
       output: web, pdf
 
