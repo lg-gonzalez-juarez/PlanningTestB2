@@ -23,10 +23,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: 00-1 Tense Grammar
-      url: /tense_a1.html
-      output: web, pdf
-      
+       
   - title: 01 Overview
     output: web, pdf
     folderitems:
@@ -35,6 +32,10 @@ entries:
       url: /index.html
       output: web, pdf
       type: homepage
+
+    - title: 00-1 Tense Grammar
+      url: /tense_a1.html
+      output: web, pdf
 
     - title: 01-2 Introduction
       url: /mydoc_introduction.html
