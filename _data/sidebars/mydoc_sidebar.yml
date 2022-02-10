@@ -10,6 +10,7 @@ entries:
     output: pdf
     type: frontmatter
     folderitems:
+
     - title:
       url: /titlepage.html
       output: pdf
@@ -19,11 +20,7 @@ entries:
       output: pdf
       type: frontmatter
 
-- title: 00 English Grammar
-    output: web, pdf
-    folderitems:
-
-       
+    
   - title: 01 Overview
     output: web, pdf
     folderitems:
