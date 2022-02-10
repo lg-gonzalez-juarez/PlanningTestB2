@@ -1,18 +1,18 @@
-repository: tomjoht/documentation-theme-jekyll
+repository: lg-gonzalez-juarez/PlanningTestB2
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Jekyll Documentation Theme
+topnav_title: Lore
 # this appears on the top navigation bar next to the home button
 
-site_title: Jekyll theme for documentation
+site_title: Doc Test
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Copyright 2021 Google LLC
+company_name: LG Company
 # this appears in the footer
 
-github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
+github_editme_path: lg-gonzalez-juarez/PlanningTestB2
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
@@ -33,9 +33,9 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Jekyll documentation theme
+feedback_subject_line: LG doc theme
 
-feedback_email: tomjoht@gmail.com
+feedback_email: lg-gonzalez-juarez@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
@@ -117,4 +117,4 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 github: [metadata]
 
 
-# Copyright 2021 Google LLC
+# Copyright 2022 Google LLC
