@@ -42,6 +42,9 @@ entries:
       url: /file02.html
       output: web, pdf
 
+    - title: 003 Tense Grammar (item)
+      url: /file03.html
+      output: web, pdf
 
     - title: 012 Introduction
       url: /mydoc_introduction.html
