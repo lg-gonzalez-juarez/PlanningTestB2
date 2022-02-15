@@ -58,6 +58,19 @@ entries:
       url: /dir01_03.html
       output: web, pdf
 
+    - title: 004 Grammar (GitBook Buno)
+      url: /dir01_04.html
+      output: web, pdf
+
+    - title: 005 Grammar (GitBook Buno)
+      url: /dir01_05.html
+      output: web, pdf
+
+    - title: 006 Grammar (GitBook Buno)
+      url: /dir01_06.html
+      output: web, pdf
+
+
 
     - title: 012 Introduction
       url: /mydoc_introduction.html
