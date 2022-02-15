@@ -12,26 +12,26 @@ folder: md
 
 ## in:
 
-the morning 
-the afternoon
-the evening 
-December
-the summer
-1998
+- the morning 
+- the afternoon
+- the evening 
+- December
+- the summer
+- 1998
 
 ## on:
 
-Monday (morning)
-the 12 th of July
-my birthday
+- Monday (morning)
+- the 12 th of July
+- my birthday
 
 ## at:
 
-three o'clock
-midday/ midnight
-lunchtime
-the weekend
-christmas / Easter / New Year
+- three o'clock
+- midday/ midnight
+- lunchtime
+- the weekend
+- christmas / Easter / New Year
 
 Use in for parts of the day, months, seasons and years
 Use on for days and dates
