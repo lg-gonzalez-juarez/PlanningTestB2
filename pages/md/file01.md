@@ -11,15 +11,18 @@ folder: md
 # Modal Verbs
 
 ## Rules of modal verbs
+
 1) Here no infinitives
+   
 2) no "s" en "3rd" person singular
+   
 3) followed by infinitive with/outwith "to"
+   
 
-
-ilusion + anticipacion 
+## ilusion + anticipacion 
 
 I'm bringing clothes this evening 
-ERROR : I go play tennis
+**ERROR:** I go play tennis
 
 ## PLANS
 
@@ -31,8 +34,11 @@ next month/ year (?) I going traveling this year
 
 be able to 
 may should 
-ERROR :will can 
+
+**ERROR:** will can 
+
 Congratulations! Don't worry you can always get a divorce!
+
 I'm sure you'll be happy
 
 Don't worry I'm sure you'll be better tomorrow
@@ -46,10 +52,13 @@ you hit the lottery
 pepe have a lot of money to ask for borrow
 
 ## OFFERS
+
 shall  (1st person only)
 
 shall I make some tea?
+
 suggestion: shall me dance?
+
 
 ## PROMISE:
 something you hope to do
