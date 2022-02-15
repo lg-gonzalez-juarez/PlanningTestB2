@@ -21,18 +21,23 @@ entries:
       type: frontmatter
 
     
-  - title: 01 Overview
+  - title: 01 Overview (English)
     output: web, pdf
     folderitems:
 
-    - title: 011 Get started
+    - title: 011 Get started (index)
       url: /index.html
       output: web, pdf
       type: homepage
 
-    - title: 001 Tense Grammar
+    - title: 001 Tense Grammar (a1)
       url: /tense_a1.html
       output: web, pdf
+
+    - title: 001 Tense Grammar (first item)
+      url: /file01.html
+      output: web, pdf
+
 
     - title: 012 Introduction
       url: /mydoc_introduction.html
