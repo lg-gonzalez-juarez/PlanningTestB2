@@ -30,22 +30,6 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: 001 Tense Grammar (a1)
-      url: /tense_a1.html
-      output: web, pdf
-
-    - title: 001 Tense Grammar (first item)
-      url: /file01.html
-      output: web, pdf
-
-    - title: 002 Tense Grammar (item)
-      url: /file02.html
-      output: web, pdf
-
-    - title: 003 Tense Grammar (item)
-      url: /file03.html
-      output: web, pdf
-
     - title: 000 Grammar (GitBook Buno)
       url: /dir01_00.html
       output: web, pdf
@@ -82,6 +66,21 @@ entries:
       url: /dir01_08.html
       output: web, pdf
 
+    - title: 001 Tense Grammar (a1)
+      url: /tense_a1.html
+      output: web, pdf
+
+    - title: 001 Tense Grammar (first item)
+      url: /file01.html
+      output: web, pdf
+
+    - title: 002 Tense Grammar (item)
+      url: /file02.html
+      output: web, pdf
+
+    - title: 003 Tense Grammar (item)
+      url: /file03.html
+      output: web, pdf
 
     - title: 012 Introduction
       url: /mydoc_introduction.html
