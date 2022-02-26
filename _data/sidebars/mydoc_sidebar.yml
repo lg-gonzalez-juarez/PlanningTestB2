@@ -40,7 +40,7 @@ entries:
     - title: 001 Grammar (GitBook Buno)
       url: /dir01_01.html
       output: web
-      
+
     - title: 011 Get started (index)
       url: /index.html
       output: web, pdf
@@ -50,9 +50,7 @@ entries:
       url: /dir01_00.html
       output: web
 
-
-
-    - title: 002 Grammar (GitBook Buno)
+    - title: 002 PAST (from GitBook B1)
       url: /dir01_02.html
       output: web
 
