@@ -25,11 +25,6 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: 011 Get started (index)
-      url: /index.html
-      output: web, pdf
-      type: homepage
-      
     - title: Unit 01 
       url: /unit01.html
       output: web, pdf
@@ -38,13 +33,24 @@ entries:
       url: /unit01.html
       output: web, pdf
 
-    - title: 000 Grammar (GitBook Buno)
-      url: /dir01_00.html
-      output: web
+  - title: 02 Verbs (English)
+    output: web, pdf
+    folderitems:
 
     - title: 001 Grammar (GitBook Buno)
       url: /dir01_01.html
       output: web
+      
+    - title: 011 Get started (index)
+      url: /index.html
+      output: web, pdf
+      type: homepage
+      
+    - title: 000 Grammar (GitBook Buno)
+      url: /dir01_00.html
+      output: web
+
+
 
     - title: 002 Grammar (GitBook Buno)
       url: /dir01_02.html
