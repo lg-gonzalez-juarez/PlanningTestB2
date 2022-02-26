@@ -1,7 +1,7 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: sidebar
+- title: Sidebar
   product: sidebar Doc Theme
   version: 6.0
   folders:
@@ -15,6 +15,7 @@ entries:
       url: /titlepage.html
       output: pdf
       type: frontmatter
+    
     - title:
       url: /tocpage.html
       output: pdf
@@ -117,10 +118,10 @@ entries:
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
-    - title: Authoring
+  - title: Authoring
     output: web, pdf
-
     folderitems:
+
     - title: Pages
       url: /mydoc_pages.html
       output: web, pdf
@@ -132,15 +133,15 @@ entries:
     - title: Conditional logic
       url: /mydoc_conditional_logic.html
       output: web, pdf
-  
+
     - title: Collections
       url: /mydoc_collections.html
       output: web, pdf
 
-   - title: Navigation
+  - title: Navigation
     output: web, pdf
-
     folderitems:
+
     - title: Sidebar navigation
       url: /mydoc_sidebar_navigation.html
       output: web, pdf
@@ -149,10 +150,10 @@ entries:
       url: /mydoc_tags.html
       output: web, pdf
 
-    - title: Formatting
+  - title: Formatting
     output: web, pdf
-
     folderitems:
+
     - title: Tooltips
       url: /mydoc_adding_tooltips.html
       output: web, pdf
@@ -192,8 +193,7 @@ entries:
     - title: Syntax highlighting
       url: /mydoc_syntax_highlighting.html
       output: web, pdf
- 
-    folderitems:
+
     - title: Commenting on files
       url: /mydoc_commenting_on_files.html
       output: web, pdf
