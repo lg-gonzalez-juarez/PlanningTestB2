@@ -1,5 +1,5 @@
 ---
-title: Mixs
+title: VOCABULARY
 tags: []
 keywords:
 summary: "gd"
@@ -8,27 +8,7 @@ permalink: file03.html
 folder: md
 ---
 
-
-## RELATIVE PRONOUNS +  CLAUSES
- 
-3 grAMATICA / 7 SE EMPLEAN GENERALMENTE
-
-WHICH -> things
-WHO -> persons
-WHERE -> places
-THAT -> things/persons
-
-WHOSE
-WHAT
-WHEN 
-WHOM
-
-DEFINING: esential information
-NON-DEFINING: extra information
-
-error: where selds posts cards
-
-# Personality
+## Personality
 
 affectionate -- cariñoso
 aggressive -- agresivo
@@ -92,12 +72,7 @@ sensitive
 sociable
 tidy
 
-
-
-
-
-
-# Money
+## Money
 
 afford  -- permitirse el lujo
 blow - golpe
@@ -184,7 +159,7 @@ a machine inside or outside a bank
 where you can get money
 
 
-# Family
+## Family
 
 aunt 	tía
 boyfriend 	novio
@@ -267,7 +242,7 @@ Son / daughter-in-law	Yerno / Nuera
 Brother / Sister-in-law	Cuñado / Cuñada
 
 
-# Foods
+## Foods
 
 knife -- cuchillo
 fork -- tenedor
@@ -307,76 +282,7 @@ grilled -- a la parrilla
 fried -- frito
 steamed -- al vapor
 
-
-# Phrasal Verbs
-
-Se llaman "phrasal verbs" a los verbos que están compuestos por más de una palabra. Siempre existe un verbo seguido de una o dos partículas. Por ejemplo:
-
-to run verbo común (correr)
-to run away phrasal verb (escaparse)
-to run out of phrasal verb (quedarse sin)
-
-Como puedes observar, al agregar las partículas cambia totalmente el significado del verbo. He aquí la dificultad de aprender a utilizar correctamente estos verbos.
-
-Existen dos tipos de phrasal verbs: separables o inseparables. En los primeros se puede separar el verbo principal de la partícula:
-
-Tom takes off his coat.
-Tom se saca el abrigo.
-
-Tom takes his coat off.
-Tom se saca el abrigo.
-
-En los verbos inseparables esto no es posible:
-
-Tom came across the keys while he was cleaning the room.
-Tom encontró las llaves mientras limpiaba la habitación.
-
-ERROR:Tom came the keys across.
-
-A continuación te ofrecemos un listado de los phrasal verbs más comunes, para que vayas aprendiendolos. La única forma de aprender el significado es de memoria.
-
-break down (inseparable) = stop working
-My car broke down last week.
-Mi auto se rompió la semana pasada.
-
-bring up (separable) = mention
-Maria brought the topic up during the meeting.
-María mencionó el tema durante la reunión.
-
-come across (inseparable) = find
-Maria came across her pen while she was cleaning her room.
-María encontró su lapicera mientras limpiaba su habitación.
-
-fill in (separable) = add information to a form
-Please fill in the blanks.
-Por favor llene los casilleros.
-
-let down (separable) = disappoint
-Please don't let me down.
-Por favor no me decepciones.
-
-look up (separable) = find in a reference book
-I don't know what this word means. I will look it up.
-No sé que significa esta palabra. La buscaré (en el diccionario).
-
-make up (separable) = invent
-I don't believe you. You made it up.
-No te creo. Lo inventaste.
-
-put on (separable) = begin to wear
-It's cold, I'll put my jacket on.
-Hace frío, me pondré la chaqueta.
-
-run out of (inseparable) = use everything
-We ran out of gas!
-Nos quedamos sin combustible!
-
-take off (separable) = stop wearing
-It's hot, I'll take my jacket off.
-Hace calor, me quitaré la chaqueta.
-
-
-# Sports
+## Sports
 
 aerobics 	gimnasia aeróbica
 archery 	tiro con arco
@@ -476,33 +382,6 @@ play
 score
 train
 warm up
-
-# PRESENT CONTINUOUS
-
-Today she's working at home
-What are you wearing now?
-
-Use the present continuous to say what are doing now
-
-Algunos verbos tienen ciertos cambios de ortografia cuando añadimos "-ing". Si el verbo termina en "e" quitaremos la "e" y luego añadimos "-ing"
-
-Si el verbo esta formado por una sola silaba y las ultimas tres letras son consonante + vocal + consonante doblaremos la ultima consonante y luego anadimos "-ing"
-
-Para la forma negativa usaremos not (no) detras del verbo "to be" (ser o estar)
-
-
-# PRESENT SIMPLE
-
-My sister works in a bank 
-What do you usually wear to work?
-
-Use the present simple to say what you usually do 
-
-BE CAREFUL WIHT DO:
-A. What do you do? (= What's your job?)
-B. I'm a teacher
-A. What are you doing? (= now, at the moment)
-B. I'm writing for a friend
 
 
 

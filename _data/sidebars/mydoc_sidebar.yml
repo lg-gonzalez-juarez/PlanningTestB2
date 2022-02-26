@@ -66,7 +66,7 @@ entries:
       url: /dir01_05.html
       output: web
 
-    - title: 006 Grammar (empty)
+    - title: 006 RELATIVE PRONOUNS +  CLAUSES
       url: /dir01_06.html
       output: web, pdf
 
@@ -78,7 +78,11 @@ entries:
       url: /dir01_08.html
       output: web
 
-    - title: 001 Tense Grammar (a1)
+    - title: 009 PHRASAL VERBS (GitBook Buno)
+      url: /dir01_09.html
+      output: web
+
+    - title: 001 PRESENT CONTINUOUS / PRESENT SIMPLE 
       url: /tense_a1.html
       output: web
 
@@ -90,7 +94,7 @@ entries:
       url: /file02.html
       output: web
 
-    - title: Mixs
+    - title: VOCABULARY
       url: /file03.html
       output: web
  
