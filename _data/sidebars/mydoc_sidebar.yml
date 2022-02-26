@@ -29,6 +29,10 @@ entries:
       url: /index.html
       output: web, pdf
       type: homepage
+      
+    - title: Unit 01 
+      url: /unit01.html
+      output: web, pdf
 
     - title: 000 Grammar (GitBook Buno)
       url: /dir01_00.html
