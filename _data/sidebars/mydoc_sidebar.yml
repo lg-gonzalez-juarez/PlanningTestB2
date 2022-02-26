@@ -315,11 +315,4 @@ entries:
       url: /mydoc_troubleshooting.html
       output: web, pdf
 
-  - title: Tag archives
-    output: web
-    folderitems:
-
-    - title: Tag archives overview
-      url: /mydoc_tag_archives_overview.html
-      output: web
-
+   
