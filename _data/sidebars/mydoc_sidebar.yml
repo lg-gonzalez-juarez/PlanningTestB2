@@ -34,29 +34,33 @@ entries:
       url: /unit01.html
       output: web, pdf
 
+    - title: Unit 02
+      url: /unit01.html
+      output: web, pdf
+
     - title: 000 Grammar (GitBook Buno)
       url: /dir01_00.html
-      output: web, pdf
+      output: web
 
     - title: 001 Grammar (GitBook Buno)
       url: /dir01_01.html
-      output: web, pdf
+      output: web
 
     - title: 002 Grammar (GitBook Buno)
       url: /dir01_02.html
-      output: web, pdf
+      output: web
 
     - title: 003 Grammar (GitBook Buno)
       url: /dir01_03.html
-      output: web, pdf
+      output: web
 
     - title: 004 Grammar (GitBook Buno)
       url: /dir01_04.html
-      output: web, pdf
+      output: web
 
     - title: 005 Grammar (GitBook Buno)
       url: /dir01_05.html
-      output: web, pdf
+      output: web
 
     - title: 006 Grammar (GitBook Buno)
       url: /dir01_06.html
@@ -64,46 +68,46 @@ entries:
 
     - title: 007 Grammar (GitBook Buno)
       url: /dir01_07.html
-      output: web, pdf
+      output: web
 
     - title: 008 Grammar (GitBook Buno)
       url: /dir01_08.html
-      output: web, pdf
+      output: web
 
     - title: 001 Tense Grammar (a1)
       url: /tense_a1.html
-      output: web, pdf
+      output: web
 
     - title: 001 Tense Grammar (first item)
       url: /file01.html
-      output: web, pdf
+      output: web
 
     - title: 002 Tense Grammar (item)
       url: /file02.html
-      output: web, pdf
+      output: web
 
     - title: 003 Tense Grammar (item)
       url: /file03.html
-      output: web, pdf
+      output: web
 
     - title: 012 Introduction
       url: /mydoc_introduction.html
-      output: web, pdf
+      output: web
 
     - title: 013 Supported features
       url: /mydoc_supported_features.html
-      output: web, pdf
+      output: web
 
     - title: 014 About the theme author
       url: /mydoc_about.html
-      output: web, pdf
+      output: web
 
     - title: 015 Support
       url: /mydoc_support.html
-      output: web, pdf
+      output: web
 
   - title: 02 Release Notes
-    output: web, pdf
+    output: web
     folderitems:
 
     - title: 021 Release notes
