@@ -66,11 +66,11 @@ entries:
       url: /dir01_05.html
       output: web
 
-    - title: 006 Grammar (GitBook Buno)
+    - title: 006 Grammar (empty)
       url: /dir01_06.html
       output: web, pdf
 
-    - title: 007 Grammar (GitBook Buno)
+    - title: 007 Future Continuous (GitBook Buno)
       url: /dir01_07.html
       output: web
 
