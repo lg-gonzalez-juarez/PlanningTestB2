@@ -19,8 +19,7 @@ entries:
       url: /tocpage.html
       output: pdf
       type: frontmatter
-
-    
+  
   - title: 01 Overview (English)
     output: web, pdf
     folderitems:
@@ -126,8 +125,6 @@ entries:
       url: /mydoc_pages.html
       output: web, pdf
 
-  
-
     - title: Lists
       url: /mydoc_lists.html
       output: web, pdf
@@ -135,7 +132,6 @@ entries:
     - title: Conditional logic
       url: /mydoc_conditional_logic.html
       output: web, pdf
-
   
     - title: Collections
       url: /mydoc_collections.html
@@ -196,31 +192,12 @@ entries:
     - title: Syntax highlighting
       url: /mydoc_syntax_highlighting.html
       output: web, pdf
-
  
-  - title: Handling reviews
-    output: web, pdf
-
     folderitems:
     - title: Commenting on files
       url: /mydoc_commenting_on_files.html
       output: web, pdf
 
-#    - title: Git collaboration
-#      url: /mydoc_git_collaboration
-#      output: web, pdf
-
-  - title: Publishing
-    output: web, pdf
-
-    folderitems:
-      
     - title: Themes
       url: /mydoc_themes.html
       output: web, pdf
-
- 
- 
- 
-
-   
