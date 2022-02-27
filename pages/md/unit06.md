@@ -24,7 +24,7 @@ yes,no|	Yes, **there is**. No, **there isn't**|	Yes,**there are**. No, **there a
 
 BE CAREFUL
 There is and It is are different
-> **There's** a key on the table. **It's** the key to the kitchen
+- **There's** a key on the table. **It's** the key to the kitchen
 
 ## 6B there was/there were
 
@@ -67,7 +67,7 @@ question ||affirmative|| negative||
 **Are** we/you/they|**arguing**? ||we/you/they **are** ||we/you/they **aren't**
 
 * Use the present continuos for things that are happening now
-> It**'s rainning**. The baby**'s crying**
+- It**'s rainning**. The baby**'s crying**
 * For the spelling of the -ing form
 
 ## 6D present simple or present continuos
@@ -81,7 +81,7 @@ What **do you** usually to work?| What **are you wearing** now?
 * Use the present continuous to say what you are doing now
 
 BE CAREFUL with do
-> A What **do yo do**? (= What's your job?) 
-> B I'm a teacher
-> A What **are you doing**? (=now,at the moment)
-> B I'm waiting for a friend
+- A What **do yo do**? (= What's your job?) 
+- B I'm a teacher
+- A What **are you doing**? (=now,at the moment)
+- B I'm waiting for a friend
