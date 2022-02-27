@@ -41,23 +41,23 @@ entries:
       url: /unit04.html
       output: web, pdf
 
-    - title: t
+    - title: t05
       url: /unit05.html
       output: web, pdf
 
-    - title: t
+    - title: t06
       url: /unit06.html
       output: web, pdf
 
-    - title: t
+    - title: t07
       url: /unit07.html
       output: web, pdf
 
-    - title: t
+    - title: t08
       url: /unit08.html
       output: web, pdf
 
-    - title: t
+    - title: t09
       url: /unit09.html
       output: web, pdf
 
