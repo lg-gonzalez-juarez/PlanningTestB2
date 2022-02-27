@@ -18,8 +18,9 @@ You |**were**|| You |weren't|
 He/she/it |**was**|famous |He/she/it|wasn't|famous
 we/you/they |**were**||we/you/they|**weren't**|
 
-* Contractions: wasn't=was not weren't=were not
-* Use was/were to talk about the past
+{% include tip.html content="Contractions: wasn't=was not weren't=were not" %}
+
+{% include tip.html content="Use was/were to talk about the past" %}
 - My grandfather was born in London
 
 question||| Afirmative|| Negative||
@@ -38,7 +39,7 @@ you||				you|
 He/she/it| **worked** yesterday|	He/she/it| **didn't work** yesterday
 we/you/they||		we/you/they|
 
-spelling rules for regular verbs
+### Spelling rules for regular verbs
 
 Infinitive| Past| Spelling
 -|-|
@@ -56,12 +57,17 @@ question||| affirmative||| negative|
 **Did**| he/she/it|work yesterday?| |he/she/it/|**did**| |he/she/it/|**didn't** 
 | we/you/they||	|we/you/they||	|we/you/they|
 
-* Contractions: didn't= did not
-* Use the past simple for finished actions
-* Regular verbs in the past + end in -ed
-- worked, lived, played
-* The past is the same for all persons
-* Use did/didn't + infinitive for past ? and -
+{% include tip.html content="Contractions: 
+<br> - didn't= did not
+<br> - Use the past simple for finished actions
+" %}
+
+{% include tip.html content="Regular verbs in the past + end in -ed" %}
+  - worked, lived, played
+
+{% include tip.html content=" 
+<br> - The past is the same for all persons
+<br> - Use did/didn't + infinitive for past ? and -" %}
 
 ## 5C past simple irregular verbs
 
@@ -78,18 +84,22 @@ see|	saw|		didn't see
 wear|	wore|		didn't wear
 do|		did|		didn't do
 
-* Use the irregular past form only in + sentences
+
+{% include tip.html content="Use the irregular past form only in + sentences" %}
+
 - I **saw** a film last night
-* Use the infinitive after did/didn't
+
+{% include tip.html content="Use the infinitive after did/didn't" %}
+
 - **Did** you **see** a film last night? NOT: Did you saw ...?
-* Remember word order=ASI (auxiliart,subject,infinitive) or QUASI(question word,auxiliary,subject,infinitive)
+
+{% include tip.html content="Remember word order=ASI (auxiliart,subject,infinitive) or QUASI(question word,auxiliary,subject,infinitive)" %}
+
 - Did you go out last night?
 - Where did you go?
 
-BE CAREFUL
-Past of can= could
-
--= couldn't could not NOT didn't can
-
-?= could you ...? NOT Did you can...?
-
+{% include warning.html content="BE CAREFUL: 
+<br>- Past of can= could
+<br>- -= Couldn't could not NOT didn't can
+<br>- ?= could you ...? NOT Did you can...?
+" %}
