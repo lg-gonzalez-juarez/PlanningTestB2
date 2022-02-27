@@ -3,7 +3,7 @@
 topnav:
 - title: Topnav
   items:
-    - title: GitHub (D)
+    - title: GitHub Repo
       external_url: https://github.com/lg-gonzalez-juarez/PlanningTestB2
     - title: News (C)
       url: /news
