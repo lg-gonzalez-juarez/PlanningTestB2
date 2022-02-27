@@ -11,7 +11,7 @@ folder: md
 
 ## 9A present perfect: verb be
 
-affirmative
+### Affirmative
 
 full form| contraction|
 -|-|
@@ -20,7 +20,7 @@ You **have**|	You**'ve**|
 He/she/it **has**|		He/she/it**'s**|
 we/you/they **have**|	we/you/they**'ve**|
 
-negative
+### Negative
 
 full form| contraction|
 -|-|
@@ -29,7 +29,6 @@ You **have not**|	You **haven't**|
 He/she/it **has not**|		He/she/it **hasn't**|
 we/you/they **have not**|	we/you/they **haven't**|
 
-
 question|| affirmative || negative||
 -|-|-|-|-
 **Have** I| **been** to Paris?|Yes,|I **have**|No,|I **haven't**
@@ -37,13 +36,15 @@ question|| affirmative || negative||
 **Has** he/she/it|||He/she/it **has** ||He/she/it **hasn't**
 **Have** we/you/they|||we/you/they **have** ||we/you/they **haven't**
 
-* Use the present perfect for general past experiences
-* To make the present perfect use have/has + past participle
-* 's=has in present perfect (but can also be is or possessive 's)
+{% include tip.html content="
+<br> * Use the present perfect for general past experiences
+<br> * To make the present perfect use have/has + past participle
+<br> * 's=has in present perfect (but can also be is or possessive 's)
+" %}
 
-BE CAREFUL
-
+{% include warning.html content=" BE CAREFUL: 
 Compare the present perfect of be and the present perfect of go
+" %}
 - He's been to Italy= He visited Italy and come back
 - He's gone to Italy=He's in Italy now
 
@@ -59,16 +60,24 @@ irregular verbs|buy|**have bought**
 |see|**have seen**
 |speak|**have spoken**
 
-* For regular verbs the past participle in the same as the past simple (+ -ed)
-* For irregular verbs the past participle in sometimes the same as the past simple, e.g. buy,bought,bought and sometimes different e.g. see,saw,seen
+{% include tip.html content="
+<br> * For regular verbs the past participle in the same as the past simple (+ -ed)
+<br> * For irregular verbs the past participle in sometimes the same as the past simple, e.g. buy,bought,bought and sometimes different e.g. see,saw,seen
+" %}
 
-present perfect or past simple
+### Present perfect or past simple
+
 - **Have you seen** the film? Yes,**I have**
 - When **did you see** it? I saw it last week
 
-* Use the present perfect to talk/ask about a general experience in the past
-* Use the past simple to talk/ask about a specific moment in the past
+{% include tip.html content="
+<br> * Use the present perfect to talk/ask about a general experience in the past
+<br> * Use the past simple to talk/ask about a specific moment in the past
+" %}
+
 - **I saw** the film **last week**
-* Don't use the present perfect with when and past time expressions e.g. yestersday,last week
-- **When did** you see it? NOT When have you seen it?
-- I saw it **last week** NOT I've seen it last week
+
+{% include tip.html content="Don't use the present perfect with when and past time expressions e.g. yestersday,last week" %}
+
+- **When did** you see it? <span class="label label-danger">NOT When have you seen it?</span>
+- I saw it **last week** <span class="label label-danger">NOT I've seen it last week</span>
