@@ -1,5 +1,5 @@
 ---
-title: "title 01 LG"
+title: "index home"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
