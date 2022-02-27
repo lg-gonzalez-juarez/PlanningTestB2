@@ -19,15 +19,15 @@ He/she/it|**can** swim|He/she/it|**can't** swim
 we/you/they|**can** come|we/you/they|**can't** come
 
 
-* Contraction: can't=can not
-* can has different meaning
+* **Contraction**: can't=can not
+* **can** has **different meaning**
 - I can swim=I know how to
 - I can come=It's possible for me (I'm not busy)
 - Can you help me?=Please help me
 
-BE CAREFUL
-Don't use to after can
-I can swim NOT: I can to swim
+{% include warning.html content="BE CAREFUL:Don't use to after can" %}
+
+I can swim  <span class="label label-danger"> NOT: I can to swim</span>
 
 |question|||affirmative|||negative|
 -|||-|||-|
@@ -45,7 +45,7 @@ I **like**|**going** to the cinema
 I **don't like**|**doing** housework
 I **hate**| **driving** at night
 
-* Use verb+-ing after like,love and hate
+{% include tip.html content="Use verb+-ing after like,love and hate" %}
 
 spelling rules for the -ing form
 
@@ -68,12 +68,18 @@ we| us| Can you help **us**?
 you| you| See **you** tomorrow
 they| them| Phone **them** this evening
 
-* Object pronouns take the place of nouns
+{% include tip.html content="Object pronouns take the place of nouns" %}
+
 - She meets John. She invites him to her house.
-* Object pronouns go after the verb
-- I love you NOT: I you love
-* You also use object pronouns after prepositions (with,to,from,etc)
--  Listen to **me**! I'm love with **her**. NOT: I'm in love with she
+  
+{% include tip.html content="Object pronouns go after the verb" %}
+
+- I love you  <span class="label label-danger"> NOT: I you love</span>
+
+{% include tip.html content="You also use object pronouns after prepositions (with,to,from,etc)" %}
+
+- Listen to **me**! I'm love with **her**. <span class="label label-danger"> NOT: I'm in love with she</span>
+
 
 ## 4D possessive pronouns: mine,yours,etc
 
@@ -85,14 +91,16 @@ she| It's **her** car| It's **hers**
 we| It's **our** car| It's **ours**
 they| It's **their** car| It's **theirs**
 
-* Use possessive pronouns to talk about possession
+
+{% include tip.html content="Use possessive pronouns to talk about possession" %}
+
 - A Whose book is it? Is it **yours**?
 - B Yes, it's **mine**
 
-* Use possessive pronouns in place of a possessive adjective + noun
+{% include tip.html content="Use possessive pronouns in place of a possessive adjective + noun" %}
+
 - It's **my** car, OR It's **mine**
 
-BE CAREFUL
-Don't use the with possessive pronouns 
-- This is yours. NOT This is the yours
+{% include warning.html content="BE CAREFUL: Don't use the with possessive pronouns " %}
 
+- This is yours. <span class="label label-danger"> NOT This is the yours</span>
