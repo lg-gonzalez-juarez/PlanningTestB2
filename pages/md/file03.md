@@ -10,6 +10,7 @@ folder: md
 
 ## Personality
 
+```
 affectionate -- cariñoso
 aggressive -- agresivo
 ambitious -- ambicioso
@@ -47,17 +48,22 @@ organized -- organizado
 patient -- paciente
 reliable -- seguro
 responsible -- responsable
+```
 
+### Oppositive Adjectives
 
-Oppositive Adjectives
+```
 extrovert - stupid
 generous - mean
 insecure - self-confident
 lazy - hard-working
 quiet - talkative
 shy - extrovert
+```
 
-negative prefixes (un - dis - in/im/ir)
+### Negative prefixes (un - dis - in/im/ir)
+
+```
 ambituous
 friendly
 honest
@@ -71,9 +77,11 @@ selfish
 sensitive
 sociable
 tidy
+```
 
-## Money
+### Money
 
+```
 afford  -- permitirse el lujo
 blow - golpe
 broke -- roto
@@ -83,19 +91,25 @@ greedy -- codicioso
 loan -- préstamo
 mall -- centro comercial
 mortgage -- hipoteca
+```
 
-spend (verb)
+```
+Spend (verb)
+
 to give or pay money 
 for something
 
-loan (noun)
+Loan (noun)
+
 money that a person or 
 bank lends you
 
-afford (verb)
+Afford (verb)
+
 to have enought money 
 to buy something
- 
+
+
 mall (noun)
 a shopping centre (US)
 
@@ -157,10 +171,11 @@ money that you borrow from a bank to buy a house
 cash machine
 a machine inside or outside a bank 
 where you can get money
+```
 
+### Family
 
-## Family
-
+```
 aunt 	tía
 boyfriend 	novio
 brother 	hermano
@@ -240,10 +255,11 @@ Cousin	Primo / Prima
 Father / Mother-in-law	Suegro / Suegra
 Son / daughter-in-law	Yerno / Nuera
 Brother / Sister-in-law	Cuñado / Cuñada
+```
 
+### Foods
 
-## Foods
-
+```
 knife -- cuchillo
 fork -- tenedor
 desserts -- postres
@@ -281,9 +297,11 @@ baked -- cocido al horno
 grilled -- a la parrilla
 fried -- frito
 steamed -- al vapor
+```
 
-## Sports
+### Sports
 
+```
 aerobics 	gimnasia aeróbica
 archery 	tiro con arco
 athletics 	atletismo
@@ -362,8 +380,6 @@ pool piscina
 slope
 track
 
-
-
 athletics
 motorcycling/Formula 1
 golf
@@ -382,6 +398,6 @@ play
 score
 train
 warm up
-
+```
 
 

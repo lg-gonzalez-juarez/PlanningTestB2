@@ -10,9 +10,7 @@ folder: md
 
 # Jobs
 
-Vocabulary: Jobs
-Jobs
-
+```
 (chimney) sweep
 (fashion) model
 actor/actress
@@ -159,9 +157,6 @@ waiter(s)/waitress(es)
 welder(s)
 vet(s) 	waiter(s) 	welder(s)
 
-
-
-
 Accidente de trabajo  	Industrial accident
 Agencia de colocaciones 	Employment Bureau; agency
 Aprendiz 			Trainee ; Apprentice
@@ -288,13 +283,11 @@ wage demand, claim
 wage group
 wages
 
+```
 
 
-EMPLOYMENT - WORK
-Vocabulary
- 
+### EMPLOYMENT - WORK
 
- 
 	        Assessment 	  Evaluation of one's abilities 	
 
  
@@ -341,10 +334,11 @@ Vocabulary
 
 
 
-# Numbers
+## Numbers
 
 Whole Numbers also known as Cardinal Numbers - used for counting
 
+```
 Symbol  		Word  	Pronounce It
 0 		Nought 	0
 1 		One 	1
@@ -380,9 +374,11 @@ Symbol  		Word  	Pronounce It
 102 		One thousand 	1,000
 1,000,000 	One million 	1,000,000
 1,000,000,000,000 	One billion 	1,000,000,000,000
+```
 
-Ordinal Numbers - used for ranking
+### Ordinal Numbers - used for ranking
 
+```
 In figures  	In words  	Pronounce It
 1st 	the first 	1st
 2nd 	the second 	2nd
@@ -423,10 +419,13 @@ In figures  	In words  	Pronounce It
 100th 	the hundredth 	100th
 101st 	the hundred and first 	...
 1000th 	the thousandth 	1000th
+```
 
-Ordinal numbers are often used in fractions:-
+### Ordinal numbers are often used in fractions:-
 
 Fractions
+
+```
 Symbol  	Word  	Pronounce It
 1/8 	One eighth 	1/8
 1/5 	One fifth 	
@@ -435,9 +434,11 @@ Symbol  	Word  	Pronounce It
 1/3 	One third 		1/3
 2/3 	Two thirds 	
 1/2 	One half 		 1/2
+```
 
+### Sums
 
-Sums
+```
 Symbols 	Word (common term in brackets) 	Pronounce It
 + 	Plus (And) 	+
 - 	Minus (Take away) 	-
@@ -451,15 +452,16 @@ One plus six minus two multiplied by two divided by two point five equals four
 or One and six take away two times two divided by two point five is four
 	1 + 6 - 2 x 2 ÷ 2.5=4
 10% 100=10 	Ten percent of one hundred equals ten. 	10% 100=10
+```
 
-
-What to say
+### What to say
 
 We often say "a" instead of "one".
 For example when we have the numbers 100 or 1/2 we say "A hundred" or "A half".
 
 For example:
 11/2 - "One and a half."
+
 When pronouncing decimals we use the word point to represent the dot. The numbers following the dot are pronounced separately.
 
 For example:
@@ -557,5 +559,3 @@ myriad
 The word myriad used to mean 10,000. Nowadays it's used to refer to a countless number or multitude of specified things.
 
 For example: Earth hosts a myriad of animals.
-
-
