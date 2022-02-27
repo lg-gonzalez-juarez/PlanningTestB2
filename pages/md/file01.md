@@ -8,9 +8,9 @@ permalink: file01.html
 folder: md
 ---
 
-# Prepositions of time
+## Prepositions of time
 
-## in:
+### in:
 
 - the morning 
 - the afternoon
@@ -19,13 +19,13 @@ folder: md
 - the summer
 - 1998
 
-## on:
+### on:
 
 - Monday (morning)
 - the 12 th of July
 - my birthday
 
-## at:
+### at:
 
 - three o'clock
 - midday/ midnight
@@ -33,6 +33,8 @@ folder: md
 - the weekend
 - christmas / Easter / New Year
 
-Use in for parts of the day, months, seasons and years
-Use on for days and dates
-Use at for times of the day, night, the weekend and festivals
+{% include tip.html content="
+<br> - Use in for parts of the day, months, seasons and years
+<br> - Use on for days and dates
+<br> - Use at for times of the day, night, the weekend and festivals
+" %}
