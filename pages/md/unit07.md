@@ -10,16 +10,18 @@ folder: md
 
 ## 7A countable/uncontable nouns
 
-* There are two kinds of noun in English, countable(C) and uncontable(U)
-C=things you can count. C nouns can be singular or plural
--one apple, two apples, three apples
-U=things you can't count. U nouns can't be plural
--butter,meat NOT: two butters, three meats
-* Some nouns can be C or U but the meaning is different
--an ice cream
--some ice cream
+{% include tip.html content="There are two kinds of noun in English, countable(C) and uncontable(U)
+<br> C=things you can count. C nouns can be singular or plural" %}
+- one apple, two apples, three apples
 
-a/an, some/any
+{% include tip.html content="U=things you can't count. U nouns can't be plural" %}
+- butter,meat <span class="label label-danger">NOT: two butters, three meats</span>
+
+{% include tip.html content="Some nouns can be C or U but the meaning is different" %}
+- an ice cream
+- some ice cream
+
+### a/an, some/any
 
 |countable|uncontable
 -|-
@@ -30,14 +32,16 @@ a/an, some/any
 ? Do we need	|**a** tomato?		|**any** rice?
 | **any** tomatoes?				|**any** sugar?
 
-* Use a/an with singular C nouns
-* Use some with plural C nouns and U nouns in +
-* Use any with plural C nouns and U nouns in - and ?
+{% include tip.html content="
+<br>* Use a/an with singular C nouns
+<br>* Use some with plural C nouns and U nouns in +
+<br>* Use any with plural C nouns and U nouns in - and ?
+" %}
 
-BE CAREFUL
-We can also use some in ? to ask for and ofter things
--Can I have **some** coffee?
--Would you like **some** biscuits?
+
+{% include warning.html content="BE CAREFUL: We can also use some in ? to ask for and ofter things" %}
+- Can I have **some** coffee?
+- Would you like **some** biscuits?
 
 ## 7B how much/how many
 
@@ -55,16 +59,20 @@ did you eat?|I ate **quite a lot of** sweets|**Quite a lot**
 |I didn't eat **many** sweets|**Not many**
 |I didn't eat **any** sweets|**None**
 
-* Use How much...?with uncontable(U) nouns and how many...?with plural countable (C) nouns
-* Use a lot (of) with C and U nouns for a **big quantity**
--quite a lot (of) for **quite a big quantity**
--not... much with U nouns for a **small quantity**
--not... many with C plural nouns for a **small quantity**
--not... any(none in short answers) for **zero quantity**
+
+{% include tip.html content="
+<br> * Use How much...?with uncontable(U) nouns and how many...?with plural countable (C) nouns
+<br> * Use a lot (of) with C and U nouns for a **big quantity**
+" %}
+
+- quite a lot (of) for **quite a big quantity**
+- not... much with U nouns for a **small quantity**
+- not... many with C plural nouns for a **small quantity**
+- not... any(none in short answers) for **zero quantity**
 
 ## 7D be going to (plans)
 
-affirmative
+### Affirmative
 
 Full form| Contraction||
 -|-|-
@@ -73,7 +81,7 @@ You **are**	|You**'re**	|**going to have**
 He/she/it **is**	|He/she/it**'s**	|a holiday
 we/you/they **are**	|we/you/they**'re**	|next month
 
-negative
+### Negative
 
 Full form| Contraction||
 -|-|-
@@ -89,18 +97,21 @@ Question |Affirmative |Negative
 **Is** he/she/it	|a holiday||he/she/it **is** ||he/she/it **isn't** 
 **Are** we/you/they	|next month?||we/you/they **are** ||we/you/they **aren't**
 
-* Use be going to + verb(infinitive) to talk about future plans
-* With the verb go you can say
--I'm going to go OR I'm going to go
-* We often use future time expressions with going to
--tomorrow,next week,next year,etc
+{% include tip.html content="
+<br> * Use be going to + verb(infinitive) to talk about future plans
+<br> * With the verb go you can say
+" %}
 
-BE CAREFUL
-next year NOT: the next year
+- I'm going to go OR I'm going to go
+
+{% include tip.html content="We often use future time expressions with going to" %}
+
+- tomorrow,next week,next year,etc
+
+{% include warning.html content="BE CAREFUL: next year NOT: the next year" %}
 
 ## 7D be going to (predictions)
 
-You can also use be going to + verb (infinitive) for predictions
-
--(I think) they're going to be very happy
--(I think) It's going to rain
+{% include tip.html content="You can also use be going to + verb (infinitive) for predictions" %}
+- (I think) they're going to be very happy
+- (I think) It's going to rain

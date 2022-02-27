@@ -15,7 +15,7 @@ folder: md
 - Mosquitoes are **more dangerous than** sharks
 - Tigers are **better** swimmers **than** cats
 
-* Use comparative adjectives + than to comparate two people/things
+{% include tip.html content="Use comparative adjectives + than to comparate two people/things" %}
 
 Adjective|Comparative|
 -|-|
@@ -36,7 +36,7 @@ far|		**futher**||
 - It's the **hottest** country in the world
 - The **most dangerous** time is the spring
 
-* Use the + superlative adjective to say witch is the (biggest,etc) in a group
+{% include tip.html content="Use the + superlative adjective to say witch is the (biggest,etc) in a group" %}
 
 Adjective| Comparative |Superlative |
 -|-|-|
@@ -51,11 +51,7 @@ good	|**better**		|the **best**		|irregular
 bad		|**worse**		|the **worst**		|
 far		|**further**	|the **furthest**	|
 
-
-
 ## 8C would like to
-
-fsd
 
 affirmative||Negative||
 -|-|-|-|
@@ -71,15 +67,20 @@ question||||affirmative||Negative||
 |he/she/it|||he/she/it|||he/she/it||
 |we/you/they|||we/you/they|||we/you/they||
 
-* Contractions: 'd=would, wouldn't=would not
+{% include tip.html content="Contractions: 'd=would, wouldn't=would not" %}
+
 - I would like to= I want to (now or in the future)
-* Use the infinitive with to after would like
-- I **would like to learn**. NOT I would like learn
-* You can also use would you like to ...? for invitations
+
+{% include tip.html content="Use the infinitive with to after would like" %}
+
+- I **would like to learn**. <span class="label label-danger">NOT I would like learn</span>
+
+{% include tip.html content="You can also use would you like to ...? for invitations" %}
+
 - **would you like to** have dinner with me toninght?
 
-BE CAREFUL
-would like and like are different
+{% include warning.html content="BE CAREFUL: would like and like are different" %}
+
 - I **'d like** to dance (=I want to dance now or in the future)
 - I **like** dancing (=I enjoy it. I like it in general)
 
@@ -90,10 +91,14 @@ would like and like are different
 - They speak very **quietly**
 - People dress very **well**
 
-* Use adverbs to say how people do things
-* Adverbs usually go after the verb
-- I speak English very well NOT: I speak very well English
-* Look at the chart for how to make adverbs
+{% include tip.html content="
+<br> * Use adverbs to say how people do things
+<br> * Adverbs usually go after the verb
+" %}
+
+- I speak English very well <span class="label label-danger">NOT: I speak very well English</span>
+
+{% include tip.html content="Look at the chart for how to make adverbs" %}
 
 Adjective| Adverb|
 -|-|
@@ -107,11 +112,12 @@ good|		**well**| irregular
 fast|		**fast**|
 hard|		**hard**|
 
-* Remember the difference between adjectives and adverbs
+{% include tip.html content="Remember the difference between adjectives and adverbs" %}
+  
 - I'm a **careful** driver, (adjective)
 - I drive **careful** (adverb)
 
-BE CAREFUL
-Not all words that end in -ly are adverbs e.g.
+{% include warning.html content="BE CAREFUL: Not all words that end in -ly are adverbs e.g." %}
+
 - friendly= adjective
 - He's a **friendly** person
