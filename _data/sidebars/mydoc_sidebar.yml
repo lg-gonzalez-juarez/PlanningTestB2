@@ -25,19 +25,24 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Present (+-?), Possesive Adjectives, articles 
+    - title: 000 Get started (index)
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: 001 Present (+-?), Possesive Adjectives, articles 
       url: /unit01.html
       output: web, pdf
 
-    - title: Present Simple (+-?) / Possesive s
+    - title: 002 Present Simple (+-?) / Possesive s
       url: /unit02.html
       output: web, pdf
 
-    - title: Adjectives, Telling the time, adverbs of frequency, prepositions of time
+    - title: 003 Adjectives, Telling the time, adverbs of frequency, prepositions of time
       url: /unit03.html
       output: web, pdf
 
-    - title: Can, like, object pronouns, possesive pronouns
+    - title: 004 Can, like, object pronouns, possesive pronouns
       url: /unit04.html
       output: web, pdf
 
@@ -68,13 +73,8 @@ entries:
     - title: 001 have got, will
       url: /dir01_01.html
       output: web
-
-    - title: 011 Get started (index)
-      url: /index.html
-      output: web, pdf
-      type: homepage
-      
-    - title: 000 Grammar (GitBook Buno)
+     
+    - title: Modal Verbs
       url: /dir01_00.html
       output: web
 
