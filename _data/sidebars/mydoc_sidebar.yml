@@ -25,12 +25,16 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Unit 01 
+    - title: Present (+-?), Possesive Adjectives, articles 
       url: /unit01.html
       output: web, pdf
 
-    - title: Unit 02
-      url: /unit01.html
+    - title: Present Simple (+-?) / Possesive s
+      url: /unit02.html
+      output: web, pdf
+
+    - title: Adjectives, Telling the time, adverbs of frequency, prepositions of time
+      url: /unit03.html
       output: web, pdf
 
   - title: 02 Verbs (English)
