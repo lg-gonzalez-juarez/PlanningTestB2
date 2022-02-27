@@ -110,20 +110,20 @@ entries:
       url: /dir01_09.html
       output: web, pdf
 
-    - title: 001 PRESENT CONTINUOUS / PRESENT SIMPLE 
-      url: /tense_a1.html
-      output: web, pdf
-
-    - title: Prepositions of time
+    - title: 010 Prepositions of time
       url: /file01.html
       output: web, pdf
 
-    - title: Jobs
+    - title: 011 Jobs
       url: /file02.html
       output: web, pdf
 
-    - title: VOCABULARY
+    - title: 012 VOCABULARY
       url: /file03.html
+      output: web, pdf
+
+    - title: 013 PRESENT CONTINUOUS / PRESENT SIMPLE 
+      url: /tense_a1.html
       output: web, pdf
  
   - title: Auxiliary Formatting
