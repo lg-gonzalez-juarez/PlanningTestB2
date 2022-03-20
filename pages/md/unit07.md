@@ -70,7 +70,7 @@ did you eat?|I ate **quite a lot of** sweets|**Quite a lot**
 - not... many with C plural nouns for a **small quantity**
 - not... any(none in short answers) for **zero quantity**
 
-## 7D be going to (plans)
+## 7C be going to (plans)
 
 ### Affirmative
 
