@@ -18,7 +18,7 @@ folder: md
 {% include tip.html content="Adjectives don't change before a plural noun." %} <span class="label label-danger"> NOT: They're prettys flowers.</span>
 
 
-## Telling the time
+## 3B Telling the time
 
 **What's the time?**
 - It's seven o'clock
